@@ -1,0 +1,10 @@
+all 1
+for 3
+hello 1
+interesting 1
+is 1
+just 1
+nice 1
+this 1
+well 2
+while 1
